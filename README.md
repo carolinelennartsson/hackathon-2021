@@ -8,3 +8,6 @@ Large-scale protein production for biotechnology and biopharmaceutical applicati
 
 Template for the powerpoint presentation
 https://docs.google.com/presentation/d/1mEIYVD_TvYuXFHItvH51ckRjvcmbthpsbR2EYiHxhh0/edit#slide=id.p
+
+Ideas about model, features etc.
+https://docs.google.com/document/d/1UcILoFWp2N3eP1iiWFlx8nWPIhHlbgHx5CMIjietiL4/edit#heading=h.c7ccs7s1hgus
